@@ -1,5 +1,4 @@
 @import "tailwindcss";
 
-/* tus estilos globales debajo */
 html, body { margin: 0; padding: 0; }
 body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
